@@ -1,7 +1,8 @@
 # Py-PascalPart
 
 Py-PascalPart is a simple tool to read annotations files from PASCAL-Part
-Dataset in Python.
+Dataset in Python, giving an easy access to 10103 images, 24971 object masks
+and 181770 body parts.
 
 ## Repository and Datasets
 
